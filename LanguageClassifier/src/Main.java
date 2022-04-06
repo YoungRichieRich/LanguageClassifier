@@ -2,16 +2,13 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Main {
 
-    public static final int AMOUNT_OF_LEARNING_ITERATION = 133;
+    public static final int AMOUNT_OF_LEARNING_ITERATION = 13;
 
     public static void main(String[] args) {
 
@@ -54,7 +51,7 @@ public class Main {
                 .map(entry -> new LanguageSample(entry.getKey(), entry.getValue()))
                 .collect(Collectors.toCollection(ArrayList::new));
 
-        Collections.shuffle(languageSamples);
+        Collections.shuffle(languageSamples, new Random(0));
 
         List<Perceptron> perceptrons = labelsAndTexts.keySet().stream()
                 .map(entry -> new Perceptron(languageSamples, entry))
@@ -66,9 +63,24 @@ public class Main {
 
         List<String> testFile = readFile("testFile.txt");
 
-        new HashMap<String, Double>();
+        HashMap<String, Double> hashMap = new HashMap<>();
+        perceptrons.forEach(perceptron -> hashMap.put( perceptron.getLanguageName(), perceptron.getAnswer(testFile) ));
 
-        perceptrons.forEach(perceptron -> System.out.println( perceptron.getLanguageName() + " " + perceptron.getAnswer(testFile) ));
+
+
+        Map.Entry<String, Double> maxEntry = null;
+
+        for (Map.Entry<String, Double> entry : hashMap.entrySet())
+        {
+            if (maxEntry == null || entry.getValue().compareTo(maxEntry.getValue()) > 0)
+            {
+                maxEntry = entry;
+            }
+        }
+
+        //perceptrons.forEach(perceptron -> System.out.println( perceptron.getLanguageName() + " " + perceptron.getAnswer(testFile) ));
+        assert maxEntry != null;
+        System.out.println(maxEntry.getKey());
 
 
     }

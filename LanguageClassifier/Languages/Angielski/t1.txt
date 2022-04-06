@@ -1,69 +1,75 @@
-[Verse 1]
-Running from the fame
-In a rented Beemer, 140 in the rain
-I remember I was hoping for a change
-Funny how I really don't want it, once it came
-Paparazzi on a lookout
-Come on, little baby, look proud
-By the way though she hates being called a model
-That ain't fair, cause she's only into books now
-We fucked around and made a new sound (goddamn)
-Fucked around, made the news howl, goddamn
-Fucked around, made a few stacks, goddamn
-I fucked around I got the blues now
-I'm staying in Brussels and London now
-And only my real people come around
-The people that I'm leaving in the past
-Keep calling to lend them a couple thou', huh
+The Big Bang theory is the prevailing cosmological model explaining the existence of the observable universe from the earliest known periods through its subsequent large-scale evolution.[1][2][3] The model describes how the universe expanded from an initial state of high density and temperature,[4] and offers a comprehensive explanation for a broad range of observed phenomena, including the abundance of light elements, the cosmic microwave background (CMB) radiation, and large-scale structure.
 
-[Chorus]
-I don't like that
-I don't really like that
-I remember messaging my idols
-Hoping that they write back
-But they never write back
-Why they never write back?
-(Why they never write back?)
-I remember teasing my demons
-Hoping that they bite back, argh!
-I don't like that
-I don't really like that
-Now I got these kids in my DMs (DMs)
-Begging me to write back (uh huh)
-I don't write back (I don't write back)
-Why I never write back? (why I never write back?)
-I remember messaging my heroes (heroes)
-Feeling like a psychopath
-[Verse 2]
-Now this is the season for fox huntin'
-And they will not stop til they got somethin'
-This relationship got their heart jumpin'
-I'll say it now, make sure I'm not mumblin'
-I'm in love with her
-There you go, put it in your article
-I just fell in love, doesn't mean that I'm a fool
-They've been, uh, turning love into a carnival
-They've been, uh, wondering if I'm honorable
-Listen up though, here's the thing
-I only care what my momma and my sister think
-Fuck going online, that ain't part of my day
-And they been lying non stop, so you'd click the link
+Crucially, the theory is compatible with Hubble–Lemaître law—the observation that the farther away a galaxy is, the faster it is moving away from Earth. Extrapolating this cosmic expansion backwards in time using the known laws of physics, the theory describes an increasingly concentrated cosmos preceded by a singularity in which space and time lose meaning (typically named "the Big Bang singularity").[5] Detailed measurements of the expansion rate of the universe place the Big Bang singularity at around 13.8 billion years ago, which is thus considered the age of the universe.[6]
 
-[Chorus]
-I don't like that (hey, hey)
-I don't really like that (hey, hey)
-I remember messaging my idols
-Hoping that they write back
-But they never write back
-Why they never write back?
-(Why they never write back?)
-I remember teasing my demons
-Hoping that they bite back, argh!
-I don't like that
-I don't really like that
-Now I got these kids in my DMs (DMs)
-Begging me to write back
-I don't write back (I don't write back)
-Why I never write back? (why I never write back?)
-I remember messaging my heroes (heroes)
-Feeling like a psychopath
+After its initial expansion, an event that is by itself often called "the Big Bang", the universe cooled sufficiently to allow the formation of subatomic particles, and later atoms. Giant clouds of these primordial elements—mostly hydrogen, with some helium and lithium—later coalesced through gravity, forming early stars and galaxies, the descendants of which are visible today. Besides these primordial building materials, astronomers observe the gravitational effects of an unknown dark matter surrounding galaxies. Most of the gravitational potential in the universe seems to be in this form, and the Big Bang theory and various observations indicate that this excess gravitational potential is not created by baryonic matter, such as normal atoms. Measurements of the redshifts of supernovae indicate that the expansion of the universe is accelerating, an observation attributed to dark energy's existence.[7]
+
+Georges Lemaître first noted in 1927 that an expanding universe could be traced back in time to an originating single point, which he called the "primeval atom". Edwin Hubble confirmed through analysis of galactic redshifts in 1929 that galaxies are indeed drifting apart; this is important observational evidence for an expanding universe. For several decades, the scientific community was divided between supporters of the Big Bang and the rival steady-state model which both offered explanations for the observed expansion, but the steady-state model stipulated an eternal universe in contrast to the Big Bang's finite age. In 1964, the CMB was discovered, which convinced many cosmologists that the steady-state theory was falsified,[8] since, unlike the steady-state theory, the hot Big Bang predicted a uniform background radiation throughout the universe caused by the high temperatures and densities in the distant past. A wide range of empirical evidence strongly favors the Big Bang, which is now essentially universally accepted.[9]
+The Big Bang theory offers a comprehensive explanation for a broad range of observed phenomena, including the abundances of the light elements, the CMB, large-scale structure, and Hubble's law.[10] The theory depends on two major assumptions: the universality of physical laws and the cosmological principle. The universality of physical laws is one of the underlying principles of the theory of relativity. The cosmological principle states that on large scales the universe is homogeneous and isotropic—appearing the same in all directions regardless of location.[11]
+
+These ideas were initially taken as postulates, but later efforts were made to test each of them. For example, the first assumption has been tested by observations showing that largest possible deviation of the fine-structure constant over much of the age of the universe is of order 10−5.[12] Also, general relativity has passed stringent tests on the scale of the Solar System and binary stars.[13][14][notes 1]
+
+The large-scale universe appears isotropic as viewed from Earth. If it is indeed isotropic, the cosmological principle can be derived from the simpler Copernican principle, which states that there is no preferred (or special) observer or vantage point. To this end, the cosmological principle has been confirmed to a level of 10−5 via observations of the temperature of the CMB. At the scale of the CMB horizon, the universe has been measured to be homogeneous with an upper bound on the order of 10% inhomogeneity, as of 1995.[15]
+
+Expansion of space
+Main articles: Friedmann–Lemaître–Robertson–Walker metric and Expansion of the universe
+The expansion of the Universe was inferred from early twentieth century astronomical observations and is an essential ingredient of the Big Bang theory. Mathematically, general relativity describes spacetime by a metric, which determines the distances that separate nearby points. The points, which can be galaxies, stars, or other objects, are specified using a coordinate chart or "grid" that is laid down over all spacetime. The cosmological principle implies that the metric should be homogeneous and isotropic on large scales, which uniquely singles out the Friedmann–Lemaître–Robertson–Walker (FLRW) metric. This metric contains a scale factor, which describes how the size of the universe changes with time. This enables a convenient choice of a coordinate system to be made, called comoving coordinates. In this coordinate system, the grid expands along with the universe, and objects that are moving only because of the expansion of the universe remain at fixed points on the grid. While their coordinate distance (comoving distance) remains constant, the physical distance between two such co-moving points expands proportionally with the scale factor of the universe.[16]
+
+The Big Bang is not an explosion of matter moving outward to fill an empty universe. Instead, space itself expands with time everywhere and increases the physical distances between comoving points. In other words, the Big Bang is not an explosion in space, but rather an expansion of space.[4] Because the FLRW metric assumes a uniform distribution of mass and energy, it applies to our universe only on large scales—local concentrations of matter such as our galaxy do not necessarily expand with the same speed as the whole Universe.[17]
+
+Horizons
+Main article: Cosmological horizon
+An important feature of the Big Bang spacetime is the presence of particle horizons. Since the universe has a finite age, and light travels at a finite speed, there may be events in the past whose light has not yet had time to reach us. This places a limit or a past horizon on the most distant objects that can be observed. Conversely, because space is expanding, and more distant objects are receding ever more quickly, light emitted by us today may never "catch up" to very distant objects. This defines a future horizon, which limits the events in the future that we will be able to influence. The presence of either type of horizon depends on the details of the FLRW model that describes our universe.[18]
+
+Our understanding of the universe back to very early times suggests that there is a past horizon, though in practice our view is also limited by the opacity of the universe at early times. So our view cannot extend further backward in time, though the horizon recedes in space. If the expansion of the universe continues to accelerate, there is a future horizon as well.[18]
+
+Thermalization
+Some processes in the early universe occurred too slowly, compared to the expansion rate of the universe, to reach approximate thermodynamic equilibrium. Others were fast enough to reach thermalization. The parameter usually used to find out whether a process in the very early universe has reached thermal equilibrium is the ratio between the rate of the process (usually rate of collisions between particles) and the Hubble parameter. The larger the ratio, the more time particles had to thermalize before they were too far away from each other.[19]
+
+Timeline
+Main article: Chronology of the universe
+External Timeline	A graphical timeline is available at
+Graphical timeline of the Big Bang
+According to the Big Bang theory, the universe at the beginning was very hot and very compact, and since then it has been expanding and cooling down.
+
+Singularity
+See also: Gravitational singularity, Initial singularity, and Planck units § Cosmology
+Extrapolation of the expansion of the universe backwards in time using general relativity yields an infinite density and temperature at a finite time in the past.[20] This irregular behavior, known as the gravitational singularity, indicates that general relativity is not an adequate description of the laws of physics in this regime. Models based on general relativity alone can not extrapolate toward the singularity—before the end of the so-called Planck epoch.[5]
+
+This primordial singularity is itself sometimes called "the Big Bang",[21] but the term can also refer to a more generic early hot, dense phase[22][notes 2] of the universe. In either case, "the Big Bang" as an event is also colloquially referred to as the "birth" of our universe since it represents the point in history where the universe can be verified to have entered into a regime where the laws of physics as we understand them (specifically general relativity and the Standard Model of particle physics) work. Based on measurements of the expansion using Type Ia supernovae and measurements of temperature fluctuations in the cosmic microwave background, the time that has passed since that event—known as the "age of the universe"—is 13.8 billion years.[23]
+
+Despite being extremely dense at this time—far denser than is usually required to form a black hole—the universe did not re-collapse into a singularity. Commonly used calculations and limits for explaining gravitational collapse are usually based upon objects of relatively constant size, such as stars, and do not apply to rapidly expanding space such as the Big Bang. Since the early universe did not immediately collapse into a multitude of black holes, matter at that time must have been very evenly distributed with a negligible density gradient.[24]
+
+Inflation and baryogenesis
+Main articles: Inflation (cosmology) and Baryogenesis
+The earliest phases of the Big Bang are subject to much speculation, since astronomical data about them are not available. In the most common models the universe was filled homogeneously and isotropically with a very high energy density and huge temperatures and pressures, and was very rapidly expanding and cooling. The period from 0 to 10−43 seconds into the expansion, the Planck epoch, was a phase in which the four fundamental forces — the electromagnetic force, the strong nuclear force, the weak nuclear force, and the gravitational force, were unified as one.[25] In this stage, the characteristic scale length of the universe was the Planck length, 1.6×10−35 m, and consequently had a temperature of approximately 1032 degrees Celsius. Even the very concept of a particle breaks down in these conditions. A proper understanding of this period awaits the development of a theory of quantum gravity.[26][27] The Planck epoch was succeeded by the grand unification epoch beginning at 10−43 seconds, where gravitation separated from the other forces as the universe's temperature fell.[25]
+
+At approximately 10−37 seconds into the expansion, a phase transition caused a cosmic inflation, during which the universe grew exponentially, unconstrained by the light speed invariance, and temperatures dropped by a factor of 100,000. Microscopic quantum fluctuations that occurred because of Heisenberg's uncertainty principle were amplified into the seeds that would later form the large-scale structure of the universe.[28] At a time around 10−36 seconds, the electroweak epoch begins when the strong nuclear force separates from the other forces, with only the electromagnetic force and weak nuclear force remaining unified.[29]
+
+Inflation stopped at around the 10−33 to 10−32 seconds mark, with the universe's volume having increased by a factor of at least 1078. Reheating occurred until the universe obtained the temperatures required for the production of a quark–gluon plasma as well as all other elementary particles.[30][31] Temperatures were so high that the random motions of particles were at relativistic speeds, and particle–antiparticle pairs of all kinds were being continuously created and destroyed in collisions.[4] At some point, an unknown reaction called baryogenesis violated the conservation of baryon number, leading to a very small excess of quarks and leptons over antiquarks and antileptons—of the order of one part in 30 million. This resulted in the predominance of matter over antimatter in the present universe.[32]
+
+Cooling
+The universe continued to decrease in density and fall in temperature, hence the typical energy of each particle was decreasing. Symmetry-breaking phase transitions put the fundamental forces of physics and the parameters of elementary particles into their present form, with the electromagnetic force and weak nuclear force separating at about 10−12 seconds.[29][33] After about 10−11 seconds, the picture becomes less speculative, since particle energies drop to values that can be attained in particle accelerators. At about 10−6 seconds, quarks and gluons combined to form baryons such as protons and neutrons. The small excess of quarks over antiquarks led to a small excess of baryons over antibaryons. The temperature was no longer high enough to create either new proton–antiproton or neutron–antineutron pairs. A mass annihilation immediately followed, leaving just one in 108 of the original matter particles and none of their antiparticles.[34] A similar process happened at about 1 second for electrons and positrons. After these annihilations, the remaining protons, neutrons and electrons were no longer moving relativistically and the energy density of the universe was dominated by photons (with a minor contribution from neutrinos).
+
+A few minutes into the expansion, when the temperature was about a billion kelvin and the density of matter in the universe was comparable to the current density of Earth's atmosphere, neutrons combined with protons to form the universe's deuterium and helium nuclei in a process called Big Bang nucleosynthesis (BBN).[35] Most protons remained uncombined as hydrogen nuclei.[36]
+
+As the universe cooled, the rest energy density of matter came to gravitationally dominate that of the photon radiation. After about 379,000 years, the electrons and nuclei combined into atoms (mostly hydrogen), which were able to emit radiation. This relic radiation, which continued through space largely unimpeded, is known as the cosmic microwave background.[36]
+The Big Bang theory developed from observations of the structure of the universe and from theoretical considerations. In 1912, Vesto Slipher measured the first Doppler shift of a "spiral nebula" (spiral nebula is the obsolete term for spiral galaxies), and soon discovered that almost all such nebulae were receding from Earth. He did not grasp the cosmological implications of this fact, and indeed at the time it was highly controversial whether or not these nebulae were "island universes" outside our Milky Way.[57][58] Ten years later, Alexander Friedmann, a Russian cosmologist and mathematician, derived the Friedmann equations from Einstein field equations, showing that the universe might be expanding in contrast to the static universe model advocated by Albert Einstein at that time.[59]
+
+In 1924, American astronomer Edwin Hubble's measurement of the great distance to the nearest spiral nebulae showed that these systems were indeed other galaxies. Starting that same year, Hubble painstakingly developed a series of distance indicators, the forerunner of the cosmic distance ladder, using the 100-inch (2.5 m) Hooker telescope at Mount Wilson Observatory. This allowed him to estimate distances to galaxies whose redshifts had already been measured, mostly by Slipher. In 1929, Hubble discovered a correlation between distance and recessional velocity—now known as Hubble's law.[60][61] By that time, Lemaître had already shown that this was to be expected, given the cosmological principle.[7]
+
+Independently deriving Friedmann's equations in 1927, Georges Lemaître, a Belgian physicist and Roman Catholic priest, proposed that the inferred recession of the nebulae was due to the expansion of the universe.[62] In 1931, Lemaître went further and suggested that the evident expansion of the universe, if projected back in time, meant that the further in the past the smaller the universe was, until at some finite time in the past all the mass of the universe was concentrated into a single point, a "primeval atom" where and when the fabric of time and space came into existence.[63]
+
+In the 1920s and 1930s, almost every major cosmologist preferred an eternal steady-state universe, and several complained that the beginning of time implied by the Big Bang imported religious concepts into physics; this objection was later repeated by supporters of the steady-state theory.[64] This perception was enhanced by the fact that the originator of the Big Bang theory, Lemaître, was a Roman Catholic priest.[65] Arthur Eddington agreed with Aristotle that the universe did not have a beginning in time, viz., that matter is eternal. A beginning in time was "repugnant" to him.[66][67] Lemaître, however, disagreed:
+
+If the world has begun with a single quantum, the notions of space and time would altogether fail to have any meaning at the beginning; they would only begin to have a sensible meaning when the original quantum had been divided into a sufficient number of quanta. If this suggestion is correct, the beginning of the world happened a little before the beginning of space and time.[68]
+
+During the 1930s, other ideas were proposed as non-standard cosmologies to explain Hubble's observations, including the Milne model,[69] the oscillatory universe (originally suggested by Friedmann, but advocated by Albert Einstein and Richard C. Tolman)[70] and Fritz Zwicky's tired light hypothesis.[71]
+
+After World War II, two distinct possibilities emerged. One was Fred Hoyle's steady-state model, whereby new matter would be created as the universe seemed to expand. In this model the universe is roughly the same at any point in time.[72] The other was Lemaître's Big Bang theory, advocated and developed by George Gamow, who introduced BBN[73] and whose associates, Ralph Alpher and Robert Herman, predicted the CMB.[74] Ironically, it was Hoyle who coined the phrase that came to be applied to Lemaître's theory, referring to it as "this big bang idea" during a BBC Radio broadcast in March 1949.[49][44][notes 3] For a while, support was split between these two theories. Eventually, the observational evidence, most notably from radio source counts, began to favor Big Bang over steady state. The discovery and confirmation of the CMB in 1964 secured the Big Bang as the best theory of the origin and evolution of the universe.[75] Much of the current work in cosmology includes understanding how galaxies form in the context of the Big Bang, understanding the physics of the universe at earlier and earlier times, and reconciling observations with the basic theory.[citation needed]
+
+In 1968 and 1970, Roger Penrose, Stephen Hawking, and George F. R. Ellis published papers where they showed that mathematical singularities were an inevitable initial condition of relativistic models of the Big Bang.[76][77] Then, from the 1970s to the 1990s, cosmologists worked on characterizing the features of the Big Bang universe and resolving outstanding problems. In 1981, Alan Guth made a breakthrough in theoretical work on resolving certain outstanding theoretical problems in the Big Bang theory with the introduction of an epoch of rapid expansion in the early universe he called "inflation".[78] Meanwhile, during these decades, two questions in observational cosmology that generated much discussion and disagreement were over the precise values of the Hubble Constant[79] and the matter-density of the universe (before the discovery of dark energy, thought to be the key predictor for the eventual fate of the universe).[80]
+
+In the mid-1990s, observations of certain globular clusters appeared to indicate that they were about 15 billion years old, which conflicted with most then-current estimates of the age of the universe (and indeed with the age measured today). This issue was later resolved when new computer simulations, which included the effects of mass loss due to stellar winds, indicated a much younger age for globular clusters.[81] While there still remain some questions as to how accurately the ages of the clusters are measured, globular clusters are of interest to cosmology as some of the oldest objects in the universe.[citation needed]
+
+Significant progress in Big Bang cosmology has been made since the late 1990s as a result of advances in telescope technology as well as the analysis of data from satellites such as the Cosmic Background Explorer (COBE),[82] the Hubble Space Telescope and WMAP.[83] Cosmologists now have fairly precise and accurate measurements of many of the parameters of the Big Bang model, and have made the unexpected discovery that the expansion of the universe appears to be accelerating.[84][85]

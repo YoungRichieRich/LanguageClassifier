@@ -1,12 +1,77 @@
-Spanish Flu Pandemic of 1918
-The deadliest virus in modern history, perhaps of all time, was the 1918 Spanish Flu. It killed about 20 to 50 million people worldwide, perhaps more. The total death toll is unknown because medical records were not kept in many areas.
+This article is about the scientific concept. For philosophical or ontological theories about relativity, see Relativism. For the silent film, see The Einstein Theory of Relativity.
+File:BBH gravitational lensing of gw150914.webm
+Video simulation the merger of GW150914, showing the spacetime distortion from gravity as the black holes orbit and merge
+The theory of relativity usually encompasses two interrelated theories by Albert Einstein: special relativity and general relativity, proposed and published in 1905 and 1915, respectively.[1] Special relativity applies to all physical phenomena in the absence of gravity. General relativity explains the law of gravitation and its relation to other forces of nature.[2] It applies to the cosmological and astrophysical realm, including astronomy.[3]
 
-The pandemic hit during World War I and devastated military troops. In the United States, for instance, more servicemen were killed from the flu than from the war itself. The Spanish flu was fatal to a higher proportion of young adults than most flu viruses.
+The theory transformed theoretical physics and astronomy during the 20th century, superseding a 200-year-old theory of mechanics created primarily by Isaac Newton.[3][4][5] It introduced concepts including 4-dimensional spacetime as a unified entity of space and time, relativity of simultaneity, kinematic and gravitational time dilation, and length contraction. In the field of physics, relativity improved the science of elementary particles and their fundamental interactions, along with ushering in the nuclear age. With relativity, cosmology and astrophysics predicted extraordinary astronomical phenomena such as neutron stars, black holes, and gravitational waves.[3][4][5]
+Development and acceptance
+Main articles: History of special relativity and History of general relativity
+General relativity
+Spacetime curvature schematic
+{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={\kappa }T_{\mu \nu }}{\displaystyle G_{\mu \nu }+\Lambda g_{\mu \nu }={\kappa }T_{\mu \nu }}
+IntroductionHistory
+Mathematical formulation
+Tests
+Fundamental concepts
+Phenomena
+EquationsFormalisms
+Solutions
+Scientists
+Stylised atom with three Bohr model orbits and stylised nucleus.svg Physics portal Category
+vte
+Albert Einstein published the theory of special relativity in 1905, building on many theoretical results and empirical findings obtained by Albert A. Michelson, Hendrik Lorentz, Henri Poincaré and others. Max Planck, Hermann Minkowski and others did subsequent work.
 
-The pandemic started mildly, in the spring of 1918, but was followed by a much more severe wave in the fall of 1918. The war likely contributed to the devastating mortality numbers, as large outbreaks occurred in military forces living in close quarters. Poor nutrition and the unsanitary conditions of war camps had an effect.
+Einstein developed general relativity between 1907 and 1915, with contributions by many others after 1915. The final form of general relativity was published in 1916.[3]
 
-A third wave occurred in the winter and spring of 1919, and a fourth, smaller wave occurred in a few areas in spring 1920. Initial symptoms of the flu were typical: sore throat, headache, and fever. The flu often progressed rapidly to cause severe pneumonia and sometimes hemorrhage in the lungs and mucus membranes. A characteristic feature of severe cases of the Spanish Flu was heliotrope cyanosis, where the patient’s face turned blue from lack of oxygen in the cells. Death usually followed within hours or days.
+The term "theory of relativity" was based on the expression "relative theory" (German: Relativtheorie) used in 1906 by Planck, who emphasized how the theory uses the principle of relativity. In the discussion section of the same paper, Alfred Bucherer used for the first time the expression "theory of relativity" (German: Relativitätstheorie).[6][7]
 
-Modern medicine such as vaccines, antivirals, and antibiotics for secondary infections were not available at that time, so medical personnel couldn’t do much more than try to relieve symptoms.
+By the 1920s, the physics community understood and accepted special relativity.[8] It rapidly became a significant and necessary tool for theorists and experimentalists in the new fields of atomic physics, nuclear physics, and quantum mechanics.
 
-The flu ended when it had infected enough people that those who were susceptible had either died or developed immunity.
+By comparison, general relativity did not appear to be as useful, beyond making minor corrections to predictions of Newtonian gravitation theory.[3] It seemed to offer little potential for experimental test, as most of its assertions were on an astronomical scale. Its mathematics seemed difficult and fully understandable only by a small number of people. Around 1960, general relativity became central to physics and astronomy. New mathematical techniques to apply to general relativity streamlined calculations and made its concepts more easily visualized. As astronomical phenomena were discovered, such as quasars (1963), the 3-kelvin microwave background radiation (1965), pulsars (1967), and the first black hole candidates (1981),[3] the theory explained their attributes, and measurement of them further confirmed the theory.
+Special relativity
+Main article: Special relativity
+Special relativity is a theory of the structure of spacetime. It was introduced in Einstein's 1905 paper "On the Electrodynamics of Moving Bodies" (for the contributions of many other physicists see History of special relativity). Special relativity is based on two postulates which are contradictory in classical mechanics:
+
+The laws of physics are the same for all observers in any inertial frame of reference relative to one another (principle of relativity).
+The speed of light in a vacuum is the same for all observers, regardless of their relative motion or of the motion of the light source.
+The resultant theory copes with experiment better than classical mechanics. For instance, postulate 2 explains the results of the Michelson–Morley experiment. Moreover, the theory has many surprising and counterintuitive consequences. Some of these are:
+
+Relativity of simultaneity: Two events, simultaneous for one observer, may not be simultaneous for another observer if the observers are in relative motion.
+Time dilation: Moving clocks are measured to tick more slowly than an observer's "stationary" clock.
+Length contraction: Objects are measured to be shortened in the direction that they are moving with respect to the observer.
+Maximum speed is finite: No physical object, message or field line can travel faster than the speed of light in a vacuum.
+The effect of gravity can only travel through space at the speed of light, not faster or instantaneously.
+Mass–energy equivalence: E = mc2, energy and mass are equivalent and transmutable.
+Relativistic mass, idea used by some researchers.[9]
+The defining feature of special relativity is the replacement of the Galilean transformations of classical mechanics by the Lorentz transformations. (See Maxwell's equations of electromagnetism.)
+
+General relativity
+ests of special relativity
+Main article: Tests of special relativity
+
+A diagram of the Michelson–Morley experiment
+Relativity is a falsifiable theory: It makes predictions that can be tested by experiment. In the case of special relativity, these include the principle of relativity, the constancy of the speed of light, and time dilation.[11] The predictions of special relativity have been confirmed in numerous tests since Einstein published his paper in 1905, but three experiments conducted between 1881 and 1938 were critical to its validation. These are the Michelson–Morley experiment, the Kennedy–Thorndike experiment, and the Ives–Stilwell experiment. Einstein derived the Lorentz transformations from first principles in 1905, but these three experiments allow the transformations to be induced from experimental evidence.
+
+Maxwell's equations—the foundation of classical electromagnetism—describe light as a wave that moves with a characteristic velocity. The modern view is that light needs no medium of transmission, but Maxwell and his contemporaries were convinced that light waves were propagated in a medium, analogous to sound propagating in air, and ripples propagating on the surface of a pond. This hypothetical medium was called the luminiferous aether, at rest relative to the "fixed stars" and through which the Earth moves. Fresnel's partial ether dragging hypothesis ruled out the measurement of first-order (v/c) effects, and although observations of second-order effects (v2/c2) were possible in principle, Maxwell thought they were too small to be detected with then-current technology.[12][13]
+
+The Michelson–Morley experiment was designed to detect second-order effects of the "aether wind"—the motion of the aether relative to the earth. Michelson designed an instrument called the Michelson interferometer to accomplish this. The apparatus was sufficiently accurate to detect the expected effects, but he obtained a null result when the first experiment was conducted in 1881,[14] and again in 1887.[15] Although the failure to detect an aether wind was a disappointment, the results were accepted by the scientific community.[13] In an attempt to salvage the aether paradigm, FitzGerald and Lorentz independently created an ad hoc hypothesis in which the length of material bodies changes according to their motion through the aether.[16] This was the origin of FitzGerald–Lorentz contraction, and their hypothesis had no theoretical basis. The interpretation of the null result of the Michelson–Morley experiment is that the round-trip travel time for light is isotropic (independent of direction), but the result alone is not enough to discount the theory of the aether or validate the predictions of special relativity.[17][18]
+
+
+The Kennedy–Thorndike experiment shown with interference fringes.
+While the Michelson–Morley experiment showed that the velocity of light is isotropic, it said nothing about how the magnitude of the velocity changed (if at all) in different inertial frames. The Kennedy–Thorndike experiment was designed to do that, and was first performed in 1932 by Roy Kennedy and Edward Thorndike.[19] They obtained a null result, and concluded that "there is no effect ... unless the velocity of the solar system in space is no more than about half that of the earth in its orbit".[18][20] That possibility was thought to be too coincidental to provide an acceptable explanation, so from the null result of their experiment it was concluded that the round-trip time for light is the same in all inertial reference frames.[17][18]
+
+The Ives–Stilwell experiment was carried out by Herbert Ives and G.R. Stilwell first in 1938[21] and with better accuracy in 1941.[22] It was designed to test the transverse Doppler effect – the redshift of light from a moving source in a direction perpendicular to its velocity—which had been predicted by Einstein in 1905. The strategy was to compare observed Doppler shifts with what was predicted by classical theory, and look for a Lorentz factor correction. Such a correction was observed, from which was concluded that the frequency of a moving atomic clock is altered according to special relativity.[17][18]
+
+Those classic experiments have been repeated many times with increased precision. Other experiments include, for instance, relativistic energy and momentum increase at high velocities, experimental testing of time dilation, and modern searches for Lorentz violations.
+
+Tests of general relativity
+Main article: Tests of general relativity
+General relativity has also been confirmed many times, the classic experiments being the perihelion precession of Mercury's orbit, the deflection of light by the Sun, and the gravitational redshift of light. Other tests confirmed the equivalence principle and frame dragging.
+
+Modern applications
+Far from being simply of theoretical interest, relativistic effects are important practical engineering concerns. Satellite-based measurement needs to take into account relativistic effects, as each satellite is in motion relative to an Earth-bound user and is thus in a different frame of reference under the theory of relativity. Global positioning systems such as GPS, GLONASS, and Galileo, must account for all of the relativistic effects, such as the consequences of Earth's gravitational field, in order to work with precision.[23] This is also the case in the high-precision measurement of time.[24] Instruments ranging from electron microscopes to particle accelerators would not work if relativistic considerations were omitted.[25]
+
+Asymptotic symmetries
+The spacetime symmetry group for Special Relativity is the Poincaré group, which is a ten-dimensional group of three Lorentz boosts, three rotations, and four spacetime translations. It is logical to ask what symmetries if any might apply in General Relativity. A tractable case may be to consider the symmetries of spacetime as seen by observers located far away from all sources of the gravitational field. The naive expectation for asymptotically flat spacetime symmetries might be simply to extend and reproduce the symmetries of flat spacetime of special relativity, viz., the Poincaré group.
+
+In 1962, Hermann Bondi, M. G. van der Burg, A. W. Metzner[26] and Rainer K. Sachs[27] addressed this asymptotic symmetry problem in order to investigate the flow of energy at infinity due to propagating gravitational waves. Their first step was to decide on some physically sensible boundary conditions to place on the gravitational field at light-like infinity to characterize what it means to say a metric is asymptotically flat, making no a priori assumptions about the nature of the asymptotic symmetry group — not even the assumption that such a group exists. Then after designing what they considered to be the most sensible boundary conditions, they investigated the nature of the resulting asymptotic symmetry transformations that leave invariant the form of the boundary conditions appropriate for asymptotically flat gravitational fields. What they found was that the asymptotic symmetry transformations actually do form a group and the structure of this group does not depend on the particular gravitational field that happens to be present. This means that, as expected, one can separate the kinematics of spacetime from the dynamics of the gravitational field at least at spatial infinity. The puzzling surprise in 1962 was their discovery of a rich infinite-dimensional group (the so-called BMS group) as the asymptotic symmetry group, instead of the finite-dimensional Poincaré group, which is a subgroup of the BMS group. Not only are the Lorentz transformations asymptotic symmetry transformations, there are also additional transformations that are not Lorentz transformations but are asymptotic symmetry transformations. In fact, they found an additional infinity of transformation generators known as supertranslations. This implies the conclusion that General Relativity does not reduce to special relativity in the case of weak fields at long distances.[28]: 35 
