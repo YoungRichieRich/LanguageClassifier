@@ -10,8 +10,8 @@ public class Perceptron {
     private List<LanguageSample> languageSamples;
     private List<Double> weights;
     private double theta = 0;
-    private double learningRate = 0.001;
-    private String languageName;
+    private final double learningRate = 0.01;
+    private final String languageName;
 
     public Perceptron(List<LanguageSample> languageSamples, String languageName) {
         this.languageSamples = languageSamples;

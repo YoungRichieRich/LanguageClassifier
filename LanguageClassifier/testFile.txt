@@ -1,63 +1,12 @@
-[Zwrotka 4: Taco Hemingway]
-Robi Fifi postęp, biję rekord jakby rekord wisiał mi pieniądze
-Po cichu znajdę drogę, nie pytam i nie błądzę
-Jak się ogolę, media płaczą za mym lichym wąsem (Uh)
-Za drinem woda, a dopiero potem drin
-Jestem Bonaparte, ona moja Josephine
-Moja rakieta spoza twojej ligi
-Z moją rakietą pykam sobie w Rocket League
-Piję wino w Saint-Gilles, mów mi Saint-Philippe
-Leci Mobb Deep, czytam Moby Dick
-Leci A$AP Rocky z Moby'm, tworzę sobie nowy hit
-Twierdzą, że ulica ziomy, ale to sezamkowy street, uh
+Terminology invoking "objects" and "oriented" in the modern sense of object-oriented programming made its first appearance at MIT in the late 1950s and early 1960s. In the environment of the artificial intelligence group, as early as 1960, "object" could refer to identified items (LISP atoms) with properties (attributes);[3][4] Alan Kay later cited a detailed understanding of LISP internals as a strong influence on his thinking in 1966.[5]
 
-[Refren]
-Jadę dalej i zmieniam bieg
-Jadę dalej
+I thought of objects being like biological cells and/or individual computers on a network, only able to communicate with messages (so messaging came at the very beginning – it took a while to see how to do messaging in a programming language efficiently enough to be useful).
 
-[Zwrotka 5: Taco Hemingway & goście z pozostałych utworów]
-W garażu chcę cabrio, nie maluch
-Biegam za tym sam jak palec
-Robię cardio jak Paluch
-Nikim nie gardzę, trzymam gardę
-Zdzieram gardło dla fanów
-Biorę tu bardzo drogą szklankę
-Sprawdzam saldo nazajutrz
-Mam trochę drogich mebli, parę nowych obrazów
-Ale wokół te same twarze, te same ziomy od lat tu
-W szkole stawiałem na przyjaźnie
-Tyle ci powiem od razu
-Bo miałem w poważaniu liczbę atomową potasu
-W kraju, w którym ludzie nienawidzą swoich rodaków
-"Pomoc dla niepełnosprawnych, kurwa, z moich podatków?
-Nie ma szans!"
-Ciągle martwię się o młodych Polaków
-Jedyny pomysł to się zabić lub spierdolić na zachód
-Chociaż w sumie nie, bo się bardzo boisz arabów
-Boisz pedałów, boisz wrogów oraz swoich sąsiadów
-Na szyi szubienice obok coraz droższych krawatów
-Jedyny sposób to się napić, zdrowie moich kamratów
-Na zdrowie
-Za sklepy monopolowe, za puste butle
-I pełne sale porodowe
-Na zdrowie (Dawid Podsiadło)
-Za wybory samorządowe
-Za stare obietnice, przebierane w nowomowę
-Na zdrowie (Kizo)
-Za czasopisma kolorowe, za tani browar
-Za zdrapki i gry losowe
-Za psychotropy i narzeczone kryzysowe
-Tanie motele, gumki i papiery rozwodowe
-Na zdrowie (Ras)
-Za tanie wódki owocowe
-Za łatwowiernych szefów i zwolnienia chorobowe
-Na zdrowie (schafter)
-Za rosnące dziury ozonowe
-Darmowy parking i samochody osobowe
-Na zdrowie (Pezet)
-Za kwiaty ze stacji benzynowej
-Na walentynki, rocznice i święto kobiet
-Na zdrowie (Rosalie.)
-Kończę i rzucam pocztówkę w obieg
-Z pozdrowieniami, twój Fifi, pospolity człowiek
-Na zdrowie
+Alan Kay, [5]
+Another early MIT example was Sketchpad created by Ivan Sutherland in 1960–1961; in the glossary of the 1963 technical report based on his dissertation about Sketchpad, Sutherland defined notions of "object" and "instance" (with the class concept covered by "master" or "definition"), albeit specialized to graphical interaction.[6] Also, an MIT ALGOL version, AED-0, established a direct link between data structures ("plexes", in that dialect) and procedures, prefiguring what were later termed "messages", "methods", and "member functions".[7][8]
+
+Simula introduced important concepts that are today an essential part of object-oriented programming, such as class and object, inheritance, and dynamic binding.[9] The object-oriented Simula programming language was used mainly by researchers involved with physical modelling, such as models to study and improve the movement of ships and their content through cargo ports.[9]
+
+In the 1970s, the first version of the Smalltalk programming language was developed at Xerox PARC by Alan Kay, Dan Ingalls and Adele Goldberg. Smalltalk-72 included a programming environment and was dynamically typed, and at first was interpreted, not compiled. Smalltalk became noted for its application of object orientation at the language-level and its graphical development environment. Smalltalk went through various versions and interest in the language grew.[10] While Smalltalk was influenced by the ideas introduced in Simula 67 it was designed to be a fully dynamic system in which classes could be created and modified dynamically.[11]
+
+In the 1970s, Smalltalk influenced the Lisp community to incorporate object-based techniques that were introduced to developers via the Lisp machine. Experimentation with various extensions to Lisp (such as LOOPS and Flavors introducing multiple inheritance and mixins) eventually led to the Common Lisp Object System, which integrates functional programming and object-oriented programming and allows extension via a Meta-object protocol. In the 1980s, there were a few attempts to design processor architectures that included hardware support for objects in memory but these were not successful. Examples include the Intel iAPX 432 and the Linn Smart Rekursiv.

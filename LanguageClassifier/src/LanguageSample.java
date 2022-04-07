@@ -10,6 +10,8 @@ public class LanguageSample {
     private List<Double> vectorOfCharacterFrequency;
     private int charactersAmount;
 
+
+
     public LanguageSample(String languageName, List<String> text) {
         this.languageName = languageName;
         this.text = text;
@@ -18,6 +20,7 @@ public class LanguageSample {
         removeAllNotEnglishAlphabetLetters();
         fillInCharacterFrequencyMap();
         normalizeVectorOfCharacterFrequency();
+        System.out.println("languageSample " + languageName + ": "  + vectorOfCharacterFrequency);
     }
 
     public void removeAllNotEnglishAlphabetLetters() {
@@ -81,5 +84,12 @@ public class LanguageSample {
 
     public Map<Character, Integer> getCharacterFrequencyMap() {
         return characterFrequencyMap;
+    }
+
+    @Override
+    public String toString() {
+        return "LanguageSample{" +
+                "languageName='" + languageName + '\'' +
+                '}';
     }
 }

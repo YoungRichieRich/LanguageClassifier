@@ -8,14 +8,14 @@ import java.util.stream.Stream;
 
 public class Main {
 
-    public static final int AMOUNT_OF_LEARNING_ITERATION = 13;
+    public static final int AMOUNT_OF_LEARNING_ITERATION = 2;
 
     public static void main(String[] args) {
 
         List<String> directoryNames = new ArrayList<>();
-        List<String> fileNames = new ArrayList<>();
 
-        HashMap<String, List<String>> labelsAndTexts = new HashMap<>();
+
+        HashMap<String, List<List<String>>> labelsAndTexts = new HashMap<>();
 
         try {
 
@@ -23,33 +23,31 @@ public class Main {
                     .filter(Files::isDirectory)
                     .forEach(d -> directoryNames.add(d.getFileName().toString()));
 
-
-            Files.walk(Path.of("Languages"))
-                    .filter(Files::isRegularFile)
-                    .forEach(f -> fileNames.add(f.getFileName().toString()));
-
             String mainDirectoryName = directoryNames.get(0);
             directoryNames.remove(0);
 
             for (String directoryName : directoryNames) {
-                for (String fileName : fileNames) {
-                    if (!labelsAndTexts.containsKey(directoryName)) {
-                        labelsAndTexts.put(directoryName, readFile(mainDirectoryName + "/" + directoryName + "/" + fileName));
-                    } else {
-                        labelsAndTexts.get(directoryName).addAll(readFile(mainDirectoryName + "/" + directoryName + "/" + fileName));
-                    }
+                Files.walk(Path.of(mainDirectoryName + "/" + directoryName))
+                        .filter(Files::isRegularFile)
+                        .forEach(f -> {
 
-                }
+                            if (!labelsAndTexts.containsKey(directoryName)) {
+                                labelsAndTexts.put(directoryName, new ArrayList<>());
+                            }
+                            labelsAndTexts.get(directoryName).add(readFile(mainDirectoryName + "/" + directoryName + "/" + f.getFileName().toString()));
+
+                        });
             }
+
 
         } catch (IOException e) {
             e.printStackTrace();
         }
 
+        ArrayList<LanguageSample> languageSamples = new ArrayList<>();
+        labelsAndTexts.forEach((key, value) ->
+            value.stream().map(strings -> new LanguageSample(key, strings)).forEach(languageSamples::add));
 
-        ArrayList<LanguageSample> languageSamples = labelsAndTexts.entrySet().stream()
-                .map(entry -> new LanguageSample(entry.getKey(), entry.getValue()))
-                .collect(Collectors.toCollection(ArrayList::new));
 
         Collections.shuffle(languageSamples, new Random(0));
 
@@ -64,16 +62,13 @@ public class Main {
         List<String> testFile = readFile("testFile.txt");
 
         HashMap<String, Double> hashMap = new HashMap<>();
-        perceptrons.forEach(perceptron -> hashMap.put( perceptron.getLanguageName(), perceptron.getAnswer(testFile) ));
+        perceptrons.forEach(perceptron -> hashMap.put(perceptron.getLanguageName(), perceptron.getAnswer(testFile)));
 
-
-
+        System.out.println(hashMap);
         Map.Entry<String, Double> maxEntry = null;
 
-        for (Map.Entry<String, Double> entry : hashMap.entrySet())
-        {
-            if (maxEntry == null || entry.getValue().compareTo(maxEntry.getValue()) > 0)
-            {
+        for (Map.Entry<String, Double> entry : hashMap.entrySet()) {
+            if (maxEntry == null || entry.getValue().compareTo(maxEntry.getValue()) > 0) {
                 maxEntry = entry;
             }
         }
