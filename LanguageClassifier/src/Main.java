@@ -11,7 +11,70 @@ public class Main {
     public static final int AMOUNT_OF_LEARNING_ITERATION = 2;
 
     public static void main(String[] args) {
+        
+        final String testFileName = "testFile.txt";
+        
+        HashMap<String, List<List<String>>> labelsAndTexts = getLanguageLabelsAndTexts();
 
+        ArrayList<LanguageSample> languageSamples = creatingListOfLanguageSamples(labelsAndTexts);
+
+        List<Perceptron> perceptrons = createListOfPerceptrons(labelsAndTexts, languageSamples);
+
+        doLearningStuff(perceptrons);
+
+        List<String> testFile = readFile(testFileName);
+
+        HashMap<String, Double> hashMap = createMapWithLearnedLayer(perceptrons, testFile);
+
+        showKeyWithMaxValue(hashMap);
+
+
+    }
+
+    private static List<Perceptron> createListOfPerceptrons(HashMap<String, List<List<String>>> labelsAndTexts, ArrayList<LanguageSample> languageSamples) {
+        return labelsAndTexts.keySet()
+                .stream()
+                .map(entry -> new Perceptron(languageSamples, entry))
+                .toList();
+    }
+
+    private static ArrayList<LanguageSample> creatingListOfLanguageSamples(HashMap<String, List<List<String>>> labelsAndTexts) {
+        ArrayList<LanguageSample> languageSamples = new ArrayList<>();
+        labelsAndTexts.forEach((key, value) ->
+                value.stream()
+                        .map(strings -> new LanguageSample(key, strings))
+                        .forEach(languageSamples::add));
+        return languageSamples;
+    }
+
+    private static void doLearningStuff(List<Perceptron> perceptrons){
+        for (int i = 0; i < Main.AMOUNT_OF_LEARNING_ITERATION; i++) {
+            int finalI = i;
+            perceptrons.forEach(p -> p.shuffleLangueageSamplesList(finalI));
+            perceptrons.forEach(Perceptron::doDelta);
+        }
+    }
+
+    private static HashMap<String, Double> createMapWithLearnedLayer(List<Perceptron> perceptrons, List<String> testFile) {
+        HashMap<String, Double> hashMap = new HashMap<>();
+        perceptrons.forEach(perceptron -> hashMap.put(perceptron.getLanguageName(), perceptron.getAnswer(testFile)));
+        return hashMap;
+    }
+
+    private static void showKeyWithMaxValue(HashMap<String, Double> hashMap) {
+        Map.Entry<String, Double> maxEntry = null;
+
+        for (Map.Entry<String, Double> entry : hashMap.entrySet()) {
+            if (maxEntry == null || entry.getValue().compareTo(maxEntry.getValue()) > 0) {
+                maxEntry = entry;
+            }
+        }
+
+        assert maxEntry != null;
+        System.out.println(maxEntry.getKey());
+    }
+
+    private static HashMap<String, List<List<String>>> getLanguageLabelsAndTexts() {
         List<String> directoryNames = new ArrayList<>();
 
 
@@ -43,41 +106,7 @@ public class Main {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-        ArrayList<LanguageSample> languageSamples = new ArrayList<>();
-        labelsAndTexts.forEach((key, value) ->
-            value.stream().map(strings -> new LanguageSample(key, strings)).forEach(languageSamples::add));
-
-
-        Collections.shuffle(languageSamples, new Random(0));
-
-        List<Perceptron> perceptrons = labelsAndTexts.keySet().stream()
-                .map(entry -> new Perceptron(languageSamples, entry))
-                .collect(Collectors.toList());
-
-        for (int i = 0; i < AMOUNT_OF_LEARNING_ITERATION; i++) {
-            perceptrons.forEach(Perceptron::doDelta);
-        }
-
-        List<String> testFile = readFile("testFile.txt");
-
-        HashMap<String, Double> hashMap = new HashMap<>();
-        perceptrons.forEach(perceptron -> hashMap.put(perceptron.getLanguageName(), perceptron.getAnswer(testFile)));
-
-        System.out.println(hashMap);
-        Map.Entry<String, Double> maxEntry = null;
-
-        for (Map.Entry<String, Double> entry : hashMap.entrySet()) {
-            if (maxEntry == null || entry.getValue().compareTo(maxEntry.getValue()) > 0) {
-                maxEntry = entry;
-            }
-        }
-
-        //perceptrons.forEach(perceptron -> System.out.println( perceptron.getLanguageName() + " " + perceptron.getAnswer(testFile) ));
-        assert maxEntry != null;
-        System.out.println(maxEntry.getKey());
-
-
+        return labelsAndTexts;
     }
 
     public static List<String> readFile(String fileName) {

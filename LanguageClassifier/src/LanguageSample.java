@@ -20,7 +20,6 @@ public class LanguageSample {
         removeAllNotEnglishAlphabetLetters();
         fillInCharacterFrequencyMap();
         normalizeVectorOfCharacterFrequency();
-        System.out.println("languageSample " + languageName + ": "  + vectorOfCharacterFrequency);
     }
 
     public void removeAllNotEnglishAlphabetLetters() {

@@ -85,8 +85,7 @@ public class Perceptron {
 
     private List<Double>  calculateWeight(double expectedValue, int index) {
         List<Double> newX = languageSamples.get(index).getVectorOfCharacterFrequency().stream()
-                .map(xn -> xn * learningRate * (expectedValue - getAnswer(index)))
-                .collect(Collectors.toList());
+                .map(xn -> xn * learningRate * (expectedValue - getAnswer(index))).toList();
 
         ArrayList<Double> tmpWeights = new ArrayList<>(weights);
 
@@ -95,6 +94,10 @@ public class Perceptron {
         }
 
         return tmpWeights;
+    }
+
+    public void shuffleLangueageSamplesList(int seed){
+        Collections.shuffle(languageSamples, new Random(seed));
     }
 
     public String getLanguageName() {
